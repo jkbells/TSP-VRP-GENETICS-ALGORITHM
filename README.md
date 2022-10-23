@@ -54,3 +54,7 @@ It is also allowed to search the web for further references and/or related mater
 - Algoritmos Evolutivos: Un enfoque práctico. L. Araujo, C. Cervigón.
 - Genetic algorithms and genetic programming : modern concepts and practical applications. M. Affenzeller...[et al.]
 - Genetic algorithms + data structures = Evolution programs. Z. Michalewicz.
+
+
+
+some of the genetic algorithums implementation in python problem solving of tsp & vrp.
